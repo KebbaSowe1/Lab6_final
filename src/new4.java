@@ -1,0 +1,2 @@
+public class new4 {
+}
